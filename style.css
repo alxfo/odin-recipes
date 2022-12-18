@@ -1,0 +1,18 @@
+html {
+    background-color: #ECDD7B;
+    color: #561D25;
+}
+
+h1, h2 {
+    color: #561D25;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    border: 1px solid black;
+}
+
+a {
+    color: #CE8147;
+}
