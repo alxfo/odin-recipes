@@ -10,7 +10,12 @@ h1, h2 {
 img {
     height: auto;
     width: 400px;
-    border: 1px solid black;
+    border: 1px solid #000;
+}
+
+#main-page-banner {
+    width: 600px;
+    border: 2px solid #000;
 }
 
 a {
