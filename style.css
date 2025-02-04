@@ -18,8 +18,17 @@ h3 {
     font-size: 24px;
 }
 
-a {
-    color: #04888b;
+div a {
+    color: #ffffff;
+    display: block;
+    width: 230px;
+    background-color: #04888b;
+    padding: 8px;
+    margin: 5px;
+    text-align: center;
+    border: solid 1px;
+    border-radius: 12px;
+    font-variant: small-caps;
 }
 
 img {
